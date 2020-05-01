@@ -1,0 +1,116 @@
+body{
+    background-color: rgb(111, 201, 201);
+}
+
+#crystalBox{
+    background-color: orange;
+    height: 50px; 
+    width: 450px;
+    margin: 20px 20px 20px 20px;
+    font-size: xx-large;
+    font-family: sans-serif;
+    text-align: center; 
+    padding: 20px 0px 0px 0px;
+    color: white;
+}
+
+#instructions{
+    background-color: palegoldenrod;
+    height: 380px;
+    width: 370px;
+    
+    font-size: medium;
+    font-family: sans-serif;
+    color: green;
+    text-align: left;
+    padding: 40px 40px 40px 40px;
+    margin: 20px 20px 20px 20px;
+}
+
+#instructionsTitle{
+    
+    padding: 10px 0px 20px 0px;
+    font-size: x-large;
+    font-family: sans-serif;
+    text-align: center; 
+    color: green;
+}
+
+#randomNumberBox{
+    float: left;
+    width: 220px;
+    height: 140px;
+    background-color: rgb(57, 138, 57);
+    margin: 0px 10px 10px 20px;
+    
+}
+#randomTitle{
+    font-size: large;
+    color: black;
+    text-align: center;
+    padding: 20px 0px 40px 0px;
+}
+
+#randomNumber{
+    color: black;
+    text-align: center;
+    font-size: xx-large;
+    padding: 0px 0px 40px 0px;
+
+}
+
+#scoreBox{
+    float: left;
+    padding: 20px 10px 20px 10px;
+    width: 200px;
+    height: 100px;
+    background-color: rgb(147, 226, 226);
+    color: black;
+}
+
+#gemImages{
+    margin: 10px 10px 10px 20px;
+    clear: both;
+}
+
+#blue{
+    margin: 10px 10px 0px 0px;
+}
+
+#white{
+    margin: 10px 10px 0px 0px;
+}
+
+#red{
+    margin: 10px 10px 0px 0px;
+}
+
+#purple{
+    margin: 10px 0px 0px 0px;
+}
+
+#pointsTitle{
+    height: 30px;
+    width: 450px;
+    font-size: large;
+    color: black;
+    text-align: center;
+    background-color: rgb(69, 132, 134);
+    margin: 20px 0px 0px 20px;
+    text-align: center;
+    padding: 20px 0px 0px 0px;
+    font-weight: bolder;
+}
+
+#points{
+    height: 45px;
+    width: 450px;
+    font-size: xx-large;
+    color: black;
+    text-align: center;
+    background-color: rgb(69, 132, 134);
+    margin: 10px 0px 0px 20px;
+    text-align: center;
+    padding: 20px 0px 0px 0px;
+    font-weight: bolder;
+}
